@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Portfolio_App/static/css/main.601969f4.chunk.css",
+    "main.css": "/Portfolio_App/static/css/main.af10574c.chunk.css",
     "main.js": "/Portfolio_App/static/js/main.6fb214ce.chunk.js",
     "main.js.map": "/Portfolio_App/static/js/main.6fb214ce.chunk.js.map",
     "runtime-main.js": "/Portfolio_App/static/js/runtime-main.9b0f398e.js",
@@ -8,7 +8,7 @@
     "static/js/2.d619ae1c.chunk.js": "/Portfolio_App/static/js/2.d619ae1c.chunk.js",
     "static/js/2.d619ae1c.chunk.js.map": "/Portfolio_App/static/js/2.d619ae1c.chunk.js.map",
     "index.html": "/Portfolio_App/index.html",
-    "static/css/main.601969f4.chunk.css.map": "/Portfolio_App/static/css/main.601969f4.chunk.css.map",
+    "static/css/main.af10574c.chunk.css.map": "/Portfolio_App/static/css/main.af10574c.chunk.css.map",
     "static/js/2.d619ae1c.chunk.js.LICENSE.txt": "/Portfolio_App/static/js/2.d619ae1c.chunk.js.LICENSE.txt",
     "static/media/icon.9ee3ebb1.png": "/Portfolio_App/static/media/icon.9ee3ebb1.png",
     "static/media/image_1.599beba3.png": "/Portfolio_App/static/media/image_1.599beba3.png",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.9b0f398e.js",
     "static/js/2.d619ae1c.chunk.js",
-    "static/css/main.601969f4.chunk.css",
+    "static/css/main.af10574c.chunk.css",
     "static/js/main.6fb214ce.chunk.js"
   ]
 }
