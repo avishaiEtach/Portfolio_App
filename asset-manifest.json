@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Portfolio_App/static/css/main.af10574c.chunk.css",
-    "main.js": "/Portfolio_App/static/js/main.90772748.chunk.js",
-    "main.js.map": "/Portfolio_App/static/js/main.90772748.chunk.js.map",
+    "main.css": "/Portfolio_App/static/css/main.0c208ce2.chunk.css",
+    "main.js": "/Portfolio_App/static/js/main.04f7d198.chunk.js",
+    "main.js.map": "/Portfolio_App/static/js/main.04f7d198.chunk.js.map",
     "runtime-main.js": "/Portfolio_App/static/js/runtime-main.9b0f398e.js",
     "runtime-main.js.map": "/Portfolio_App/static/js/runtime-main.9b0f398e.js.map",
-    "static/js/2.9d43ef05.chunk.js": "/Portfolio_App/static/js/2.9d43ef05.chunk.js",
-    "static/js/2.9d43ef05.chunk.js.map": "/Portfolio_App/static/js/2.9d43ef05.chunk.js.map",
+    "static/js/2.ba5ac6f0.chunk.js": "/Portfolio_App/static/js/2.ba5ac6f0.chunk.js",
+    "static/js/2.ba5ac6f0.chunk.js.map": "/Portfolio_App/static/js/2.ba5ac6f0.chunk.js.map",
     "index.html": "/Portfolio_App/index.html",
-    "static/css/main.af10574c.chunk.css.map": "/Portfolio_App/static/css/main.af10574c.chunk.css.map",
-    "static/js/2.9d43ef05.chunk.js.LICENSE.txt": "/Portfolio_App/static/js/2.9d43ef05.chunk.js.LICENSE.txt",
+    "static/css/main.0c208ce2.chunk.css.map": "/Portfolio_App/static/css/main.0c208ce2.chunk.css.map",
+    "static/js/2.ba5ac6f0.chunk.js.LICENSE.txt": "/Portfolio_App/static/js/2.ba5ac6f0.chunk.js.LICENSE.txt",
     "static/media/icon.9ee3ebb1.png": "/Portfolio_App/static/media/icon.9ee3ebb1.png",
     "static/media/image_1.599beba3.png": "/Portfolio_App/static/media/image_1.599beba3.png",
     "static/media/image_2.f7d2cc1c.png": "/Portfolio_App/static/media/image_2.f7d2cc1c.png",
@@ -18,8 +18,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.9b0f398e.js",
-    "static/js/2.9d43ef05.chunk.js",
-    "static/css/main.af10574c.chunk.css",
-    "static/js/main.90772748.chunk.js"
+    "static/js/2.ba5ac6f0.chunk.js",
+    "static/css/main.0c208ce2.chunk.css",
+    "static/js/main.04f7d198.chunk.js"
   ]
 }
